@@ -1,9 +1,29 @@
 p.content
 {
-	color: red;
+	color: orange;
 	padding: 50px;
 	font-size: 32px;
 	font-weight: bold;
 	text-align: center;
-	background:gray;
+	background:brown;
+}
+h1.content
+{
+	color:orange;
+	padding:50px;
+	font-size: 32px;
+	font-weight: bold;
+	text-align: center;
+}
+body
+{
+	background-image: url("../img/source.gif");
+	background-size:cover;
+}
+.center
+{
+	text-align: center;
+	background:brown;
+	opacity:0.9;
+	color:orange;
 }
